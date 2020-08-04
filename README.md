@@ -1,7 +1,6 @@
 ### Hi there, I'm Ran Byron 👋
-
-## I'm a web developer, specializing in Front End.
-- I take on short-term projects I can give value to.
+### I'm a web developer, specializing in Front End.
+### I take on short-term projects mostly.
 
 ## What I've been up to:
 - Interim R&D lead at [https://www.linkedin.com/company/shiftime/](gogo getter) - Had a blast managing remote teams and getting hands dirty with React Native, NodeJs, AWS services and Typescript.
