@@ -2,15 +2,15 @@
 ### I'm a web developer, specializing in Front End.
 ### I take on short-term projects mostly.
 
-## What I've been up to:
-- Interim R&D lead at [https://www.linkedin.com/company/shiftime/](gogo getter) - Had a blast managing remote teams and getting hands dirty with React Native, NodeJs, AWS services and Typescript.
-- Web dev and UX designer at [http://redash.io/](Redash) - Worked remotely on a wonderful product with an amazing team, learned docker, cypress, lints and helped transition from Angular to React. 
-- Web dev for [https://neonwallet.com/](Neon Wallet) - Got acquanted with Crypto, Blockchain and Electron.
-- UI developer at Facebook's [https://info.internet.org/en/](internet.org) - Had the time of my life being a front end developer at this incredible company.
+### What I've been up to:
+- Interim R&D lead at [gogo getter](https://www.linkedin.com/company/shiftime/) - Had a blast managing remote teams and getting hands dirty with React Native, NodeJs, AWS services and Typescript.
+- Web dev and UX designer at [Redash](https://redash.io/) - Worked remotely on a wonderful product with an amazing team, learned docker, cypress, lints and helped transition from Angular to React. 
+- Web dev for [Neon Wallet](https://neonwallet.com/) - Got acquanted with Crypto, Blockchain and Electron.
+- UI developer at Facebook's [internet.org](https://info.internet.org/en/) - Had the time of my life being a front end developer at this incredible company.
 
-[https://www.linkedin.com/in/ranbena/](More on my Linkedin)
+[More on my Linkedin](https://www.linkedin.com/in/ranbena/)
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -32,4 +32,4 @@
 
 ---
 
-- 📫 Reach me: [https://www.linkedin.com/in/ranbena/](Linkedin)
+📫 Reach me: [Linkedin](https://www.linkedin.com/in/ranbena/)
