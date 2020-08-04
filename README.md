@@ -2,7 +2,7 @@
 ### I'm a web developer, specializing in Front End.
 ### I take on short-term projects mostly.
 
-<br /><br />
+<br />
 
 ### What I've been up to:
 - Interim R&D lead at [gogo getter](https://www.linkedin.com/company/shiftime/) - Had a blast managing remote teams and getting hands dirty with React Native, NodeJs, AWS services and Typescript.
@@ -12,7 +12,7 @@
 
 [More on my Linkedin](https://www.linkedin.com/in/ranbena/)
 
-<br /><br />
+<br />
 
 #### Languages and Tools:
 
@@ -34,6 +34,8 @@
 <img align="left" alt="Sketch" width="26px" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png" />
 <img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
-<br /><br />
+<br />
+
+----------
 
 📫 Reach me: [Linkedin](https://www.linkedin.com/in/ranbena/)
