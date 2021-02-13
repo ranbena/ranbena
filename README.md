@@ -5,6 +5,7 @@
 <br />
 
 ### What I've been up to:
+- Web Developer at [any.do](https://any.do) - Took over coding the web and desktop app implementations of the product. 
 - Interim R&D lead at [gogo getter](https://www.linkedin.com/company/shiftime/) - Had a blast managing remote teams and getting hands dirty with React Native, NodeJs, AWS services and Typescript.
 - Web dev and UX designer at [Redash](https://redash.io/) - Worked remotely on a wonderful product with an amazing team, learned docker, cypress, lints and helped transition from Angular to React. 
 - Web dev for [Neon Wallet](https://neonwallet.com/) - Got acquanted with Crypto, Blockchain and Electron.
