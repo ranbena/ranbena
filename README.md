@@ -1,5 +1,5 @@
 ### Hi there, I'm Ran Byron 👋
-### I'm a web developer, specializing in Front End.
+### I'm a senior web developer, specializing in Front End.
 ### I take on short-term projects mostly.
 
 <br />
