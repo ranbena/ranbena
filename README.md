@@ -5,6 +5,7 @@
 <br />
 
 ### What I've been up to:
+- Web Lead at [inplay.com](https://inplay.com) - Brought in to make the frontend web and mobile app production ready.
 - Web Lead at [any.do](https://any.do) - Took over coding the web and desktop app implementations of the product. 
 - Interim R&D lead at [gogo getter](https://www.linkedin.com/company/shiftime/) - Had a blast managing remote teams and getting hands dirty with React Native, NodeJs, AWS services and Typescript.
 - Web dev and UX designer at [Redash](https://redash.io/) - Worked remotely on a wonderful product with an amazing team, learned docker, cypress, lints and helped transition from Angular to React. 
