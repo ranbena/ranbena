@@ -1,8 +1,7 @@
 ### Hi there, I'm Ran Byron 👋
-### I'm a senior web developer, specializing in Frontend - UX and DX.
-### I take on React and NextJs projects mostly.
-
-<br />
+I'm a **senior web developer**, specializing in **Frontend** - UX and DX.
+<br />I take on React and NextJs projects mostly.
+<br/>📷 My Instagram channel https://instagram.com/ranbenadev
 
 ### What I've been up to:
 - Web Lead at [inplay.com](https://inplay.com) - Brought in to make the frontend web and mobile app production ready.
